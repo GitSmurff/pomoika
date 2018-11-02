@@ -1,0 +1,11 @@
+E:\svrp\lb7\lb7\obj\Debug\lb7.Form1.resources
+E:\svrp\lb7\lb7\obj\Debug\lb7.Resources.resources
+E:\svrp\lb7\lb7\obj\Debug\lb7.vbproj.GenerateResource.cache
+E:\svrp\lb7\lb7\bin\Debug\lb7.exe.config
+E:\svrp\lb7\lb7\bin\Debug\lb7.exe
+E:\svrp\lb7\lb7\bin\Debug\lb7.pdb
+E:\svrp\lb7\lb7\bin\Debug\lb7.xml
+E:\svrp\lb7\lb7\obj\Debug\lb7.exe
+E:\svrp\lb7\lb7\obj\Debug\lb7.xml
+E:\svrp\lb7\lb7\obj\Debug\lb7.pdb
+E:\svrp\lb7\lb7\obj\Debug\lb7.vbprojResolveAssemblyReference.cache
